@@ -2,6 +2,19 @@
 
 This project creates an interactive map using the `folium` library in Python to display the location of volcanoes in Spain along with global population data. The map features two layers: one that shows volcanoes with color-coded markers based on elevation, and another that visualizes global population data using a GeoJSON file.
 
+## Technologies and Libraries
+
+- **Python**: The primary programming language used for data processing and visualization.
+- **Folium**: A Python library used for generating interactive maps. Folium is built on the Leaflet.js library, which allows for easy map customization and layer control.
+- **Pandas**: A Python library used for data manipulation and reading CSV files.
+- **GeoJSON**: A format for encoding geographical data, used in this project to visualize global population statistics.
+
+## Key Features
+
+- **Volcano Visualization**: The map marks volcanoes in Spain using colored circular markers. Each marker displays the volcano’s name, location, and elevation. Marker colors change based on the elevation, providing quick insights into altitude variations.
+- **Global Population Layer**: The map includes a layer that shows population distribution across countries using color coding. The population data is extracted from a **GeoJSON** file, and countries are colored based on their population size.
+- **Interactive Map Controls**: Users can toggle between the volcano and population layers using a built-in layer control, enhancing the interactivity and data exploration.
+
 ## Files
 
 - volcanoes_spain.txt: A CSV file containing information about volcanoes in Spain, with the following columns: Latitude, Longitude, Elevation (m), Name, Location.
