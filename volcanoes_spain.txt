@@ -1,0 +1,15 @@
+Number,Name,Location,Status,Elevation (m),Type,Timeframe,Latitude,Longitude
+ES-001,Teide,"Tenerife, Canary Islands",Historical,3718,Stratovolcano,Dendrochronology,28.2725,-16.6425
+ES-002,Timanfaya,"Lanzarote, Canary Islands",Historical,510,Volcanic Field,Historical,29.131,-13.733
+ES-003,Teneguía,"La Palma, Canary Islands",Historical,439,Cinder Cone,Historical,28.485,-17.839
+ES-004,Cumbre Vieja,"La Palma, Canary Islands",Historical,1949,Volcanic Ridge,Historical,28.6103,-17.8378
+ES-005,San Antonio,"La Palma, Canary Islands",Historical,657,Cinder Cone,Historical,28.52,-17.83
+ES-006,La Restinga,"El Hierro, Canary Islands",Historical,1100,Shield Volcano,Historical,27.6892,-17.969
+ES-007,Tanganasoga,"El Hierro, Canary Islands",Historical,1501,Shield Volcano,Historical,27.7265,-18.0275
+ES-008,Caldera de Taburiente,"La Palma, Canary Islands",Historical,2426,Caldera,Historical,28.7614,-17.9267
+ES-009,Cabo de Gata,"Almería, Península",Quaternary,492,Volcanic Complex,Radiocarbon,36.8431,-2.1032
+ES-010,Campo de Calatrava,"Ciudad Real, Península",Quaternary,1150,Volcanic Complex,Radiocarbon,38.849,-3.915
+ES-011,Cofrentes,"Valencia, Península",Quaternary,890,Volcanic Complex,Radiocarbon,39.25,-1.026
+ES-012,Islas Columbretes,"Castellón, Península",Quaternary,70,Volcanic Island,Radiocarbon,39.89,0.67
+ES-013,Garrotxa,"Girona, Península",Quaternary,500,Volcanic Field,Radiocarbon,42.14,2.49
+ES-014,El Carmolí,"Murcia, Península",Quaternary,75,Volcanic Hill,Radiocarbon,37.65,-1.14
