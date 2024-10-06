@@ -70,3 +70,5 @@ Finally, the map is saved as an HTML file.
 ```
 map.save("Map.html")
 ```
+
+![](https://github.com/esmartdie/Map-Spain-Volcanoes/blob/main/Example.png)
